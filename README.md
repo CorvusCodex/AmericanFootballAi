@@ -14,6 +14,9 @@ To install AmericanFootballAi, you will need to have Python 3.x and the followin
 - keras
 - art
 
+## For people without technical experience you can buy the compiled standalone application for windows from here:
+https://www.buymeacoffee.com/CorvusCodex/e/165468
+
 You can install these libraries using pip by running the following command:
 
 '''pip install numpy tensorflow keras art'''
